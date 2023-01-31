@@ -1,2 +1,2 @@
 # Dealing with List Values in Pandas
-This is how you perform data analysis on list values in pandas dataframes.
+Supplementary material for my Medium article "Dealing with List Values in Pandas Dataframes": https://medium.com/towards-data-science/dealing-with-list-values-in-pandas-dataframes-a177e534f173 
